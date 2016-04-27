@@ -3,7 +3,7 @@
 ## Installing updates
 
 Keeping software up to date is important for various reasons, such as, security,
-reliability, and stability. Keeping software up to date on lubuntu is fairly 
+reliability, and stability. Keeping software up to date on lubuntu is fairly
 easy.
 
 ![us](../../images/sysmnt/update-software.png)
@@ -17,7 +17,7 @@ This will show a list of software that is going to be updated.
 
 ![list](../../images/sysmnt/update-software-list.png)
 
-To install updates, press the ``Install Now`` Button. During the installation, 
+To install updates, press the ``Install Now`` Button. During the installation,
 the program may prompt you for a password, this password is the smae one you
 use to login to your account.
 
