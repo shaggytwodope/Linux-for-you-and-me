@@ -1,3 +1,3 @@
 # Linux for **you** and me.
 
-By: Theodore Seàn Tubbs.
+By: Theodore Seán Tubbs.
