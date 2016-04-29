@@ -1,7 +1,7 @@
 # Installing updates
 
 Keeping software up to date is important for various reasons, such as, security,
-reliability, and stability. Keeping software up to date on lubuntu is fairly
+reliability, and stability. Keeping software up to date on Lubuntu is fairly
 easy. Most of the time when software wants to update, a window will appear
 to notify you, Though if you want to check for updates yourself,
 the process is fairly easy.
@@ -15,7 +15,7 @@ or you can find it in the ``start menu``.
 
 ![menu](../../images/pm/updates/menu.png)
 
-If you let lubuntu tell you when to update, you'll see this:
+If you let Lubuntu tell you when to update, you'll see this:
 
 ![us](../../images/pm/updates/update-software.png)
 
