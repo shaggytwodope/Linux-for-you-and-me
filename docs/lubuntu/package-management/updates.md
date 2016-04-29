@@ -2,12 +2,24 @@
 
 Keeping software up to date is important for various reasons, such as, security,
 reliability, and stability. Keeping software up to date on lubuntu is fairly
-easy.
+easy. Most of the time when software wants to update, a window will appear
+to notify you, Though if you want to check for updates yourself,
+the process is fairly easy.
+
+
+You can click on the ``Software Updater`` icon on your desktop,
+
+![desktop-su](../../images/pm/updates/software-updater-desktop.png)
+
+or you can find it in the ``start menu``.
+
+![menu](../../images/pm/updates/menu.png)
+
+If you let lubuntu tell you when to update, you'll see this:
 
 ![us](../../images/pm/updates/update-software.png)
 
-Most of the time when software wants to update, this window will appear, to get
-more information, you can click the arrow before ``Details of updates``.
+to get more information, you can click the arrow before ``Details of updates``.
 
 ![update-software-arrow-pointed-out](../../images/pm/updates/update-software-point.png)
 
