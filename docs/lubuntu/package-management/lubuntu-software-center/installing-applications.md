@@ -48,13 +48,13 @@ The Lubuntu software center is organized into categories.
     - Don't expect the same experience.
 - ``Science & Engineering``
   - Software related to science and engineering.
-  - E.g. ``ACM`` a biomoleculal simulator.
+  - E.g. ``ACM`` a Biomolecular simulator.
 - ``System``
   - Software related to managing your computer, or peripherals.
   - E.g. ``Gparted`` a graphical application for managing partitions.
 - ``Themes & Tweaks``
   - Various themes, addons, etc for your desktop.
-  - E.g. ``About me`` an application that allows you to edit personal details attatched to your account.
+  - E.g. ``About me`` an application that allows you to edit personal details attached to your account.
 - ``Unverisal Access``
   - Software for computers that aids people with special access needs.
   - E.g. ``Screen reader`` provides use of graphical desktops via synthesized speech and/or refreshable braille.

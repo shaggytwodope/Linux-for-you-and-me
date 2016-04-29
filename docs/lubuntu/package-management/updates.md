@@ -28,7 +28,7 @@ This will show a list of software that is going to be updated.
 ![list](../../images/pm/updates/update-software-list.png)
 
 To install updates, press the ``Install Now`` Button. During the installation,
-the program may prompt you for a password, this password is the smae one you
+the program may prompt you for a password, this password is the same one you
 use to login to your account.
 
 ![inst-now](../../images/pm/updates/inst-now-up.png)
