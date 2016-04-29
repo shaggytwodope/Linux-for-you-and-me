@@ -1,6 +1,4 @@
-# Updates
-
-## Installing updates
+# Installing updates
 
 Keeping software up to date is important for various reasons, such as, security,
 reliability, and stability. Keeping software up to date on lubuntu is fairly
